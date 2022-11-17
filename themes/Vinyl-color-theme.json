@@ -792,7 +792,7 @@
       "name": "Attribute IDs",
       "scope": "entity.other.attribute-name.id",
       "settings": {
-        "fontStyle": "normal",
+        "fontStyle": "",
         "foreground": "#85b5e8"
       }
     },
@@ -800,7 +800,7 @@
       "name": "Attribute class",
       "scope": "entity.other.attribute-name.class.css",
       "settings": {
-        "fontStyle": "normal",
+        "fontStyle": "",
         "foreground": "#859bff"
       }
     },
@@ -1853,7 +1853,7 @@
     "activityBar.background": "#282726",
     "activityBar.inactiveForeground": "#ffffff66",
     "activityBarBadge.foreground": "#dbd7cc",
-    "activityBarBadge.background": "#435a57",
+    "activityBarBadge.background": "#598b84",
     "sideBar.background": "#282726",
     "sideBar.foreground": "#dbd7cc",
     "sideBarSectionHeader.background": "#00000000",
@@ -2033,9 +2033,9 @@
     "gitDecoration.conflictingResourceForeground": "#859bff",
     "gitDecoration.deletedResourceForeground": "#c9696b",
     "gitDecoration.ignoredResourceForeground": "#8c8c8c",
-    "gitDecoration.modifiedResourceForeground": "#ebd9b7",
+    "gitDecoration.modifiedResourceForeground": "#e7c27c",
     "gitDecoration.stageDeletedResourceForeground": "#c9696b",
-    "gitDecoration.stageModifiedResourceForeground": "#ebd9b7",
+    "gitDecoration.stageModifiedResourceForeground": "#e7c27c",
     "gitDecoration.submoduleResourceForeground": "#85b5e8",
     "gitDecoration.untrackedResourceForeground": "#89b482",
     "editorMarkerNavigation.background": "#2d2d30",

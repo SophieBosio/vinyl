@@ -6,4 +6,14 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
-- Initial release
+### Added
+- Main colours for syntax and editor
+
+## [1.0.0] - 17.11.2022
+
+### Changed
+- Updated changelog
+- Updated README
+
+### Fixed
+- Better colours for "modified" Git decoration
