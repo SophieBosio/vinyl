@@ -1,0 +1,21 @@
+{
+  "name": "vinyl",
+  "displayName": "Vinyl",
+  "description": "A soft theme with a vintage feel.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Vinyl",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Vinyl-color-theme.json"
+      }
+    ]
+  }
+}
