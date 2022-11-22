@@ -1,4 +1,17 @@
 {
+  // VSCode braces & brackets colours
+  // add to VSCode settings.json :~)
+  //
+  // "editor.bracketPairColorization.enabled": true,
+  // "workbench.colorCustomizations": {
+  //   "editorBracketHighlight.foreground1": "#7d7b7b",
+  //   "editorBracketHighlight.foreground2": "#F7D79A",
+  //   "editorBracketHighlight.foreground3": "#A0D9EF",
+  //   "editorBracketHighlight.foreground4": "#89B482",
+  //   "editorBracketHighlight.foreground5": "#E06C75",
+  //   "editorBracketHighlight.foreground6": "#A199EB",
+  //   "editorBracketHighlight.unexpectedBracket.foreground": "#C9696B"
+  // }
   "name": "Vinyl",
   "type": "dark",
   "semanticHighlighting": true,
@@ -32,7 +45,98 @@
       "name": "haskell storage type",
       "scope": "storage.type.haskell",
       "settings": {
+        "foreground": "#e5c07b"
+      }
+    },
+    {
+      "name": "haskell numbers",
+      "scope": "constant.numeric.floating.decimal.haskell, constant.numeric.floating.hexadecimal.haskell, constant.numeric.integral.binary.haskell, constant.numeric.integral.decimal.haskell, constant.numeric.integral.hexadecimal.haskell, constant.numeric.integral.octal.haskell",
+      "settings": {
         "foreground": "#859bff"
+      }
+    },
+    {
+      "name": "haskell other operators",
+      "scope": "constant.other.operator.haskell, keyword.operator.double-dot.haskell",
+      "settings": {
+        "foreground": "#98b67b"
+      }
+    },
+    {
+      "name": "haskell constants",
+      "scope": "constant.other.haskell",
+      "settings": {
+        "foreground": "#98b67b"
+      }
+    },
+    {
+      "name": "haskell functions",
+      "scope": "entity.name.function.haskell, entity.name.function.infix.haskell, keyword.operator.function.infix.haskell",
+      "settings": {
+        "foreground": "#85b5e8"
+      }
+    },
+    {
+      "name": "haskell names",
+      "scope": "entity.name.foreign.haskell",
+      "settings": {
+        "foreground": "#98b67b"
+      }
+    },
+    {
+      "name": "haskell labels",
+      "scope": "entity.name.label.haskell",
+      "settings": {
+        "foreground": "#ebd9b7",
+      }
+    },
+    {
+      "name": "haskell namespace",
+      "scope": "entity.name.namespace.haskell",
+      "settings": {
+        "foreground": "#c9696b"
+      }
+    },
+    {
+      "name": "haskell arrow, colon",
+      "scope": "keyword.operator.arrow.haskell, keyword.operator.double-colon.haskell",
+      "settings": {
+        "foreground": "#89b482",
+      }
+    },
+    {
+      "name": "haskell big arrow",
+      "scope": "keyword.operator.big-arrow.haskell",
+      "settings": {
+        "foreground": "#859bff",
+      }
+    },
+    {
+      "name": "haskell braces",
+      "scope": "punctuation.brace.haskell",
+      "settings": {
+        "foreground": "#ebd9b7",
+      }
+    },
+    {
+      "name": "haskell brackets",
+      "scope": "punctuation.bracket.haskell",
+      "settings": {
+        "foreground": "#859bff"
+      }
+    },
+    {
+      "name": "haskell import",
+      "scope": "keyword.other.import.haskell",
+      "settings": {
+        "foreground": "#89b482"
+      }
+    },
+    {
+      "name": "haskell other punctuation",
+      "scope": "punctuation.paren.haskell, constant.language.empty-list.haskell, constant.language.unit.haskell, constant.language.unit.unboxed.haskell, keyword.other.module.haskell, keyword.other.signature.haskell, keyword.other.class.haskell, meta.declaration.module.haskell, support.constant.tuple.haskell, support.constant.tuple.unboxed.haskell, constant.language.empty-list.haskell",
+      "settings": {
+        "foreground": "#e5c07b"
       }
     },
     {
