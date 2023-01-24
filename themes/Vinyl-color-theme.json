@@ -59,14 +59,14 @@
       "name": "haskell other operators",
       "scope": "constant.other.operator.haskell, keyword.operator.double-dot.haskell",
       "settings": {
-        "foreground": "#98b67b"
+        "foreground": "#89b482"
       }
     },
     {
       "name": "haskell constants",
       "scope": "constant.other.haskell",
       "settings": {
-        "foreground": "#98b67b"
+        "foreground": "#e5c07b"
       }
     },
     {
@@ -80,7 +80,7 @@
       "name": "haskell names",
       "scope": "entity.name.foreign.haskell",
       "settings": {
-        "foreground": "#98b67b"
+        "foreground": "#89b482"
       }
     },
     {
@@ -147,17 +147,27 @@
       }
     },
     {
+      "name": "self python",
+      "scope": "variable.language.special.self.python, source.python",
+      "settings": {
+        "foreground": "#e5c07b",
+        "fontStyle":""
+      }
+    },
+    {
       "name": "punctuation.separator.parameters.python",
       "scope": "punctuation.separator.period.python,punctuation.separator.element.python,punctuation.parenthesis.begin.python,punctuation.parenthesis.end.python",
       "settings": {
-        "foreground": "#ebd9b7"
+        "foreground": "#ebd9b7",
+        "fontStyle":""
       }
     },
     {
       "name": "variable.parameter.function.language.special.self.python",
       "scope": "variable.parameter.function.language.special.self.python",
       "settings": {
-        "foreground": "#e5c07b"
+        "foreground": "#e5c07b",
+        "fontStyle":""
       }
     },
     {
@@ -488,7 +498,7 @@
       "name": "keyword.operator.misc.rust",
       "scope": "keyword.operator.misc.rust",
       "settings": {
-        "foreground": "#ebd9b7"
+        "foreground": "#89b482"
       }
     },
     {
@@ -530,7 +540,7 @@
       "name": "C operator assignment",
       "scope": "keyword.operator.assignment.c,keyword.operator.comparison.c,keyword.operator.c,keyword.operator.increment.c,keyword.operator.decrement.c,keyword.operator.bitwise.shift.c,keyword.operator.assignment.cpp,keyword.operator.comparison.cpp,keyword.operator.cpp,keyword.operator.increment.cpp,keyword.operator.decrement.cpp,keyword.operator.bitwise.shift.cpp",
       "settings": {
-        "foreground": "#c9696b"
+        "foreground": "#89b482"
       }
     },
     {
@@ -579,7 +589,7 @@
       "name": "python logical",
       "scope": "keyword.operator.logical.python",
       "settings": {
-        "foreground": "#c9696b"
+        "foreground": "#89b482"
       }
     },
     {
@@ -614,7 +624,7 @@
       "name": "Operators",
       "scope": "keyword.operator",
       "settings": {
-        "foreground": "#ebd9b7"
+        "foreground": "#89b482"
       }
     },
     {
@@ -1079,7 +1089,7 @@
       "name": "Embedded",
       "scope": "punctuation.section.embedded, variable.interpolation",
       "settings": {
-        "foreground": "#98b67b"
+        "foreground": "#89b482"
       }
     },
     {
@@ -1983,7 +1993,7 @@
     "statusBar.background": "#282726",
     "statusBarItem.hoverBackground": "#ffffff1f",
     "statusBar.border": "#191919",
-    "statusBar.debuggingBackground": "#8e96bc",
+    "statusBar.debuggingBackground": "#5f6aa4",
     "statusBar.debuggingForeground": "#fff9e7",
     "statusBar.noFolderBackground": "#495a58",
     "statusBar.noFolderForeground": "#ffffff",
@@ -2004,7 +2014,7 @@
     "menu.selectionBorder": "#00000000",
     "menu.separatorBackground": "#bbbbbb",
     "menu.border": "#00000085",
-    "button.background": "#68928f",
+    "button.background": "#61857d",
     "button.foreground": "#dbd7cc",
     "button.hoverBackground": "#495a58",
     "button.secondaryForeground": "#dbd7cc",
@@ -2018,7 +2028,7 @@
     "inputOption.activeForeground": "#ffffff",
     "input.placeholderForeground": "#a6a6a6",
     "textLink.foreground": "#68928f",
-    "editor.background": "#282726",
+    "editor.background": "#242121",
     "editor.foreground": "#dbd7cc",
     "editorLineNumber.foreground": "#858585",
     "editorCursor.foreground": "#dbd7cc",
@@ -2026,7 +2036,7 @@
     "editor.selectionBackground": "#495a5881",
     "editor.inactiveSelectionBackground": "#495a584a",
     "editorWhitespace.foreground": "#e4e3e229",
-    "editor.selectionHighlightBackground": "#add6ff26",
+    "editor.selectionHighlightBackground": "#add6ff5c",
     "editor.selectionHighlightBorder": "#495a58f1",
     "editor.findMatchBackground": "#495a58d1",
     "editor.findMatchBorder": "#749f95",
@@ -2060,7 +2070,7 @@
     "editorInfo.foreground": "#85b5e8",
     "editorInfo.background": "#4490BF00",
     "editorInfo.border": "#4490BF00",
-    "editorGutter.background": "#282726",
+    "editorGutter.background": "#242121",
     "editorGutter.modifiedBackground": "#85b5e878",
     "editorGutter.addedBackground": "#84b78768",
     "editorGutter.deletedBackground": "#c9696b91",
@@ -2102,7 +2112,7 @@
     "breadcrumb.foreground": "#aba9a1",
     "breadcrumb.focusForeground": "#dbd7cc",
     "editorGroupHeader.border": "#dbd7cc00",
-    "editorGroupHeader.tabsBackground": "#2d2d2d",
+    "editorGroupHeader.tabsBackground": "#363535",
     "editorGroupHeader.tabsBorder": "#dbd7cc00",
     "tab.activeForeground": "#dbd7cc",
     "tab.border": "#282726",
@@ -2190,7 +2200,7 @@
     "minimap.warningHighlight": "#e8c67d",
     "minimap.background": "#282726",
     "sideBar.dropBackground": "#383b3d",
-    "editorGroup.emptyBackground": "#282726",
+    "editorGroup.emptyBackground": "#191818",
     "panelSection.border": "#80808059",
     "statusBarItem.activeBackground": "#FFFFFF25",
     "settings.headerForeground": "#dbd7cc",

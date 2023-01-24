@@ -25,3 +25,10 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ### Added
 - Custom colours for braces & brackets, can be added to user's settings.json
+
+## [1.0.2] - 24.01.2023
+
+### Changed
+- Darker editor background for higher contrast
+- Darker debugging status bar colour
+- Button colour dimmed slightly
