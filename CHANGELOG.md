@@ -9,6 +9,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ### Added
 - Main colours for syntax and editor
 
+
 ## [1.0.0] - 17.11.2022
 
 ### Changed
@@ -26,9 +27,16 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ### Added
 - Custom colours for braces & brackets, can be added to user's settings.json
 
+
 ## [1.0.2] - 24.01.2023
 
 ### Changed
 - Darker editor background for higher contrast
 - Darker debugging status bar colour
 - Button colour dimmed slightly
+
+
+## [1.0.3] - 21.03.2023
+
+### Changed
+- Neutral temperature colours for editor and panels
