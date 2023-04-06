@@ -14,7 +14,7 @@
     "name": "Sophie Bosio",
     "email": "sophie.bosio@proton.me"
   },
-  "icon": "vinyl-icon.png",
+  "icon": "icons/vinyl-icon-transparent.png",
   "repository": {
     "url": "https://github.com/SophieBosio/vinyl",
     "type": "git"
