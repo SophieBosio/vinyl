@@ -39,4 +39,4 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [1.0.3] - 21.03.2023
 
 ### Changed
-- Neutral temperature colours for editor and panels
+- Neutral temperature colours for editor and panels backgrounds

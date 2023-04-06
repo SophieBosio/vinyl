@@ -2,13 +2,22 @@
   "name": "vinyl",
   "displayName": "Vinyl",
   "description": "A soft theme with a vintage feel.",
-  "version": "0.0.1",
+  "publisher": "Sophie Bosio",
+  "version": "1.0.3",
   "engines": {
     "vscode": "^1.73.0"
   },
   "categories": [
     "Themes"
   ],
+  "author": {
+    "name": "Sophie Bosio",
+    "email": "sophie.bosio@proton.me"
+  },
+  "repository": {
+    "url": "https://github.com/SophieBosio/vinyl",
+    "type": "git"
+  },
   "contributes": {
     "themes": [
       {
