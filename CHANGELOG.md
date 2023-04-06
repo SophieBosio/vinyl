@@ -1,4 +1,4 @@
-# Change Log
+# Changelog
 
 All notable changes to the "vinyl" extension will be documented in this file.
 
@@ -46,9 +46,18 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - Neutral temperature colours for editor and panels backgrounds
 
-## [1.0.4] - 06.04.2023
+## [1.0.4] - 02.04.2023
 
 ### Added
 
 - Icon for VS Code Marketplace
 - License
+
+## [1.0.5] - 06.04.2023
+
+### Changed
+- Icon to transparent, higher resolution icon
+- More informative README
+
+### Removed
+- Redundant duplicate of bracket colourisation settings

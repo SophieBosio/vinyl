@@ -1,18 +1,4 @@
 {
-  // VSCode braces & brackets colours
-  // These should be added by default, but if not you can
-  // add them manually to VSCode's settings.json :~)
-  //
-  // "editor.bracketPairColorization.enabled": true,
-  // "workbench.colorCustomizations": {
-  //   "editorBracketHighlight.foreground1": "#7d7b7b",
-  //   "editorBracketHighlight.foreground2": "#F7D79A",
-  //   "editorBracketHighlight.foreground3": "#A0D9EF",
-  //   "editorBracketHighlight.foreground4": "#89B482",
-  //   "editorBracketHighlight.foreground5": "#E06C75",
-  //   "editorBracketHighlight.foreground6": "#A199EB",
-  //   "editorBracketHighlight.unexpectedBracket.foreground": "#C9696B"
-  // }
   "name": "Vinyl",
   "type": "dark",
   "semanticHighlighting": true,
