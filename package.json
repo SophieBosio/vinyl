@@ -3,7 +3,7 @@
   "displayName": "Vinyl",
   "description": "A soft theme with a vintage feel.",
   "publisher": "sophiebosio",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "engines": {
     "vscode": "^1.73.0"
   },
