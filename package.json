@@ -2,7 +2,7 @@
   "name": "vinyl",
   "displayName": "Vinyl",
   "description": "A soft theme with a vintage feel.",
-  "publisher": "Sophie Bosio",
+  "publisher": "sophiebosio",
   "version": "1.0.3",
   "engines": {
     "vscode": "^1.73.0"
