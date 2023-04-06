@@ -1,6 +1,7 @@
 {
   // VSCode braces & brackets colours
-  // add to VSCode settings.json :~)
+  // These should be added by default, but if not you can
+  // add them manually to VSCode's settings.json :~)
   //
   // "editor.bracketPairColorization.enabled": true,
   // "workbench.colorCustomizations": {

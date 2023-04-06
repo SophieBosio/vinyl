@@ -12,4 +12,4 @@ You may reuse, repurpose and alter the code any way you like, but you may not se
 ## Screenshot
 ![Screenshot](screenshot.png)
 
-The font used in the above screenshot, is JetBrainsMono.
+The font used in the above screenshot is JetBrainsMono.
